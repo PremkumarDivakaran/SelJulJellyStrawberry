@@ -23,7 +23,7 @@ public class TC001_Login extends OpentapsWrappers{
 	public void beforeClass() {
 		dataSheetName="TC001";
 		browserName="chrome";
-		testCaseName="Login to OpenTaps";
+		testCaseName="Login  to OpenTaps";
 		testDescription="Login and Logout in Opentaps using POM framework";
 	}
 	
