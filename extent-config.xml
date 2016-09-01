@@ -14,7 +14,7 @@
     <protocol>https</protocol>
     
     <!-- title of the document -->
-    <documentTitle>TestLeaf Selenium Automation Project</documentTitle>
+    <documentTitle>TestLeaf Selenium Automation Project updated for GIT</documentTitle>
     
     <!-- report name - displayed at top-nav -->
     <reportName>TestLeaf Selenium - POM Test Automation Report</reportName>
